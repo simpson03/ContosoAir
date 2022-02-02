@@ -1,5 +1,7 @@
 [![Build Status](https://dev.azure.com/simpsr8/Tailspin/_apis/build/status/simpson03.ContosoAir?branchName=master)](https://dev.azure.com/simpsr8/Tailspin/_build/latest?definitionId=6&branchName=master)# This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
+
+[![Build Status](https://dev.azure.com/simpsr8/Tailspin/_apis/build/status/simpson03.ContosoAir?branchName=master)](https://dev.azure.com/simpsr8/Tailspin/_build/latest?definitionId=6&branchName=master)
 # Microsoft.Github CI Demo
 
 Demo website application for Contoso Air.  
